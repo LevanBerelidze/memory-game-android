@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="points_template_view">Points:</string>
+    <string name="personal_best_template_view">Personal Best:</string>
+    <string name="personal_best_pref_key">personal_best_key</string>
+    <string name="continue_message">Touch to resume</string>
+    <string name="game_over_message">Game over</string>
+    <string name="restart_button_text">Restart</string>
+    <string name="quit_to_menu_prompt">Quit to Menu</string>
+    <string name="options_button_text">Options</string>
+    <string name="start_game_button_text">Start Game</string>
+    <string name="instructions_button_text">Instructions</string>
+    <string name="quit_button_text">Quit</string>
+    <string name="instruction">Welcome to the MemoryGame! During each part of the game a new circle appears, which you have to guess. You have 3 seconds to guess the correct circle.</string>
+</resources>

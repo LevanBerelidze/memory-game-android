@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/color_choice"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:paddingTop="4dp">
+
+    <RadioGroup
+        android:id="@+id/colors_radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></RadioGroup>
+
+</LinearLayout>
